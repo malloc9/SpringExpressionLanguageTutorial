@@ -15,13 +15,13 @@ public class SpELTutorial {
 
     public static void main(String[] args) {
 //        stringParse();
-//        stringConcat();
+//         stringConcat();
 //        callMethod();
 //        nestedProperty();
 //        constructor();
 //        evaluateAgainstObject();
-        typeConversion();
-//        parserConfig();
+//        typeConversion();
+        parserConfig();
     }
 
     private static void stringParse() {
